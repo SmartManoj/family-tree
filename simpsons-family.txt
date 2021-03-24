@@ -1,0 +1,26 @@
+Palanisamy Gounder + Ramayal
+ c: Soundari, Lingeswaran, Balakrishnan
+Lingeswaran + Kavitha
+ c: Ramani, Lakshmi
+Deivasigamani + Karuppayal
+ c: Palanisamy, Balasubramaniam, Kamalam, Periya Aththai
+Balasubramaniam + Sivamani
+ c: Parthiban
+Marappan +  Kamalam
+ c: Umamaheswari, Thirugnanasampath
+Periya Aththai + Periya Mama
+ c: Kodeswaran, Pushpa
+Navaneethakrishnan + Brindha
+Palanisamy + Soundari
+ c: Manojkumar, Navaneethakrishnan
+Ramani
+ l: Jan 26 2001 - 
+Lakshmi
+ l: Jan 26 2001 - 
+Palanisamy Gounder
+ l: -Feb 06 2016
+Manojkumar
+ n: https://about.me/SmartManoj
+ l: Feb 12 1998 - 
+ p: https://en.gravatar.com/userimage/138858486/b0b85123924d4064e50e42f7ce23d653.png
+
